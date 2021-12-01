@@ -1,0 +1,10 @@
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\Contact Tracing Information Viewer.csproj.AssemblyReference.cache
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\Contact Tracing Information Viewer.csproj.GenerateResource.cache
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\Contact Tracing Information Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jv Cataquiz\OOP\Assignment5\Contact Tracing Viewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
